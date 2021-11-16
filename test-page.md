@@ -1,29 +1,9 @@
 ---
-title: Test Page
+title: Curriculum Vitae
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Here is a link to my CV
 
-[This is a link](#)
 
-> This is a blockquote
-
-`This is code`
-
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+[CV Link](/DEVeco_cv1.pdf)
