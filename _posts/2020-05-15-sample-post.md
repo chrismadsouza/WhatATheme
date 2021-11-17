@@ -21,7 +21,7 @@ Asia remains the growth champion of the world but there’s a large grey cloud o
 
 At present, India has the world’s largest youth population that will also turn old in the next 30 years. India is practically sitting on a demographic time bomb where by in 2050, 1 in 5 people will be above the age of 60. 
 
-(/graph.PNG)
+
 <center>
     <img src="/graph.PNG"  />
 </center>
