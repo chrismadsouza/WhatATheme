@@ -23,20 +23,20 @@ At present, India has the world’s largest youth population that will also turn
 
 
 <center>
-    <img src="/graph.png"  />
+    <img src="/graph.PNG"  />
 </center>
 
 
 However, as India ages, we are heading for a geographical population divide with the southern states ageing faster than the northern states.  
 
 <center>
-    <img src="/map.png"  />
+    <img src="/map.PNG"  />
 </center>
 
 This major north-south divide causes a burden on the ageing southern states. The elderly are hugely dependent and this leads to high demand for accessible healthcare infrastructure, increased financial stability and improved social constructions. This skewed geographical difference in literacy rates and investments in healthcare and education across the Indian peninsula has led to an asymmetric income distribution with the south having a higher per capita income than the north, coupled with decreased fertility rates and prolonged life expectancy in the South.  
 
 <center>
-    <img src="/map1.png"  />
+    <img src="/map1.PNG"  />
 </center>
 
 **Women more Vulnerable**
