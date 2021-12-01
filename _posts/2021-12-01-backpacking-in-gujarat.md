@@ -15,9 +15,8 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 
 
 <br>
- One fine day, Usha, and I, randomly (like always) decided to go backpacking to Gujarat for a week. Having a rough itinerary ready we did not anticipate the soulful and adventurous experience that we would be embarking. 
-<br>
-Touring the city only on local buses and trains, Gujarat’s reputation of excellent roads exceeds itself. With exceptional connectivity across the state, bus journeys are a souvenir of changing traditional attire and identities of people across boundaries. On one such journey Usha noticed on how baldness is never a problem in Gujarati genes and for the rest of the trip, we went on to observe the same. Gujrati cuisine is very diverse but slightly leans on to the sweeter palate, which worked wonderfully for me. In fact, we had the best mutton chaap of our lives in Ahmedabad.
+ One fine day, Usha, and I, randomly (like always) decided to go backpacking to Gujarat for a week. Having a rough itinerary ready we did not anticipate the soulful and adventurous experience that we would be embarking. Touring the city only on local buses and trains, Gujarat’s reputation of excellent roads exceeds itself. With exceptional connectivity across the state, bus journeys are a souvenir of changing traditional attire and identities of people across boundaries. On one such journey Usha noticed on how baldness is never a problem in Gujarati genes and for the rest of the trip, we went on to observe the same. Gujrati cuisine is very diverse but slightly leans on to the sweeter palate, which worked wonderfully for me. In fact, we had the best mutton chaap of our lives in Ahmedabad.
+ 
 <br>
 
 <p align="center">
@@ -26,10 +25,15 @@ Touring the city only on local buses and trains, Gujarat’s reputation of excel
 </p>
 
 <br>
-Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera sun temple commands respect out of an individual. 
-<center>
-    <img src="/map.PNG"  />
-</center>
+Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera sun temple commands respect out of an individual.
+
+<br>
+<p align="center">
+  <img src="/cp.PNG" width="456" height="655">
+  <p>hello</p>
+  <img src="/rani.PNG" width="456" height="655">
+ <img src="/modhera.PNG" width="456" height="655">
+</p>
 
 As we are complete wildlife buffs, there was no way we could have missed the Gir National Park. Those who relate to us, know the absolute tranquillity of being in the jungle for a couple of hours in silence. It’s almost like therapy! And of course, to be rewarded by the sight of a lioness roaring? Nothing like it. 
 <center>
