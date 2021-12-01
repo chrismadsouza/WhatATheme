@@ -19,7 +19,7 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 <br>
 Touring the city only on local buses and trains, Gujarat’s reputation of excellent roads exceeds itself. With exceptional connectivity across the state, bus journeys are a souvenir of changing traditional attire and identities of people across boundaries. On one such journey Usha noticed on how baldness is never a problem in Gujarati genes and for the rest of the trip, we went on to observe the same. Gujrati cuisine is very diverse but slightly leans on to the sweeter palate, which worked wonderfully for me. In fact, we had the best mutton chaap of our lives in Ahmedabad.
 <br>
-![busride](/bus.PNG) ![alt-text-2](/thali.PNG)
+![busride](/bus.PNG){:height="50%" width="50%"} ![alt-text-2](/thali.PNG){:height="50%" width="50%"}
 <p align="center">
   <img src="/bus.PNG" width="256" height="455">
   <img src="/thali.PNG" width="256" height="455">
