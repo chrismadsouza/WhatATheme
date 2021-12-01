@@ -21,7 +21,7 @@ Touring the city only on local buses and trains, Gujarat’s reputation of excel
 <br>
 
 <p align="center">
-  <img src="/bus.PNG" width="456" height="1055">
+  <img src="/bus.PNG" width="456" height="855">
   <img src="/thali.PNG" width="456" height="655">
 </p>
 
