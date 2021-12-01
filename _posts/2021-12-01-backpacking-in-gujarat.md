@@ -21,7 +21,7 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 
 <p align="center">
   <img src="/bus.PNG" width="456" height="655">
-  <img src="/thali.PNG" width="456" height="655">
+  <img src="/thali.PNG" width="456" height="555">
 </p>
 
 <br>
@@ -30,7 +30,8 @@ Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful ble
 <br>
 <p align="center">
   <img src="/cp.PNG" width="456" height="655">
-  </p>
+   </p>
+   <p align="center">champagner </p>
   <p align="center">
   <img src="/rani.PNG" width="456" height="655">
   <figcaption>MDN Logo</figcaption>
