@@ -62,7 +62,13 @@ For the last leg of our trip, there was no better place to end, than the city of
 <p align="center">Heritage Walk</p>
 #### Final thoughts
 
-Two women backpacking does ignite curiosity in most places of India and likewise Gujarat. What strikes out here is that women freely move about, even at night, so one feels very safe. In fact, there were days where we were quite stranded in remote villages because we missed the last bus but felt very secure. For those looking to explore the state, the Gujarat tourism website - [https://www.gujarattourism.com/](#) is an excellent source of information and is very well planned to cater to a tourist’s needs. In the end, we returned content, with salt all over our clothes, dhoklas in our bellies and memories in our hearts. 
+Two women backpacking does ignite curiosity in most places of India and likewise in Gujarat. What strikes out here is that women freely move about, even at night, so one feels very safe. In fact, there were days where we were quite stranded in remote villages because we missed the last bus but felt very secure. For those looking to explore the state, the Gujarat tourism website - [https://www.gujarattourism.com/](#) is an excellent source of information and is very well planned to cater to a tourist’s needs. In the end, we returned content, with salt all over our clothes, dhoklas in our bellies and memories in our hearts. 
 
 <br>
 Oh, we’ll definitely be back to 'Breathe in a bit of Gujarat'! 
+
+<br>
+<p align="center">
+  <img src="/jump.PNG" width="556" height="755">
+</p>
+
