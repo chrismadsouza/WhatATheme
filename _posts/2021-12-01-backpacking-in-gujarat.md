@@ -24,6 +24,12 @@ Touring the city only on local buses and trains, Gujarat’s reputation of excel
 <img class =“left” src="/thali.PNG" height="200" width="200"/>
 <p>This is image 1</p>
 
+<right>
+    <img src="/bus.PNG" height="200" width="200"  />
+</right>
+<left>
+    <img src="/thali.PNG" height="200" width="200"  />
+</left>
 <br>
 Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera sun temple commands respect out of an individual. 
 <center>
