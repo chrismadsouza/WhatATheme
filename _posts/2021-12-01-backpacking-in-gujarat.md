@@ -20,7 +20,7 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 <br>
 
 <p align="center">
-  <img src="/bus.PNG" width="456" height="655">
+  <img src="/bus.PNG" width="556" height="855">
 </p>
 
 <br>
@@ -32,24 +32,24 @@ Our first stop was the majestic wonders of Champaner- Pavagadh, a beautiful blen
    </p>
    <p align="center">The Jami Masjid at Champaner-Pavagadh</p>
   <p align="center">
- <img src="/modhera.PNG" width="456" height="655">
+ <img src="/modhera.PNG" width="556" height="755">
 </p>
 <p align="center">Rani ki Wav and Modhera Sun Temple</p>
 
 As we are complete wildlife buffs, there was no way we could have missed the Gir National Park. Those who relate to us, know the absolute tranquillity of being in the jungle for a couple of hours in silence. It’s almost like therapy! And of course, to be rewarded by the sight of a lioness roaring? Nothing like it. 
 <p align="center">
-  <img src="/lion.PNG" width="456" height="655">
+  <img src="/lion.PNG" width="556" height="755">
 </p>
 <p align="center">Jungle Safari and Lionness at Gir</p>
 
 Next, we moved to Kutch, India’s largest district and well, a place of its own. Kutch has many unexplored places like Kaliya dhrow and Khari Nadi gorge (canyon) which are rock formations sculpted by wind and water in colours of crimson. Kutch noticeable stands out from the rest of Gujarat by flaunting a rainbow palette of clothes, Kutchi thalis and bhungas (traditional Kutchi houses) thriving in the saline wilderness. As you become one with the vastness of the great Rann, the white desert almost commands devotionality out of an individual. The human eye reaches as far as it can, to see the sky and land meet. It is a summit-like humbling yet emotional experience. 
 
 <p align="center">
- <img src="/bhunga.PNG" width="456" height="655">
+ <img src="/bhunga.PNG" width="556" height="755">
  </p>
  <p align="center">Khari Nadi gorge, A traditional Bhunga</p>
  <p align="center">
- <img src="/rann.PNG" width="456" height="655">
+ <img src="/rann.PNG" width="556" height="755">
 </p>
 <p align="center">Views from Rann of Kutch</p>
 <br>
@@ -57,7 +57,7 @@ For the last leg of our trip, there was no better place to end, than the city of
 
 <br>
 <p align="center">
-  <img src="/heritage.PNG" width="456" height="655">
+  <img src="/heritage.PNG" width="556" height="755">
 </p>
 <p align="center">Heritage Walk</p>
 #### Final thoughts
