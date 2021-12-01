@@ -19,17 +19,16 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 <br>
 Touring the city only on local buses and trains, Gujarat’s reputation of excellent roads exceeds itself. With exceptional connectivity across the state, bus journeys are a souvenir of changing traditional attire and identities of people across boundaries. On one such journey Usha noticed on how baldness is never a problem in Gujarati genes and for the rest of the trip, we went on to observe the same. Gujrati cuisine is very diverse but slightly leans on to the sweeter palate, which worked wonderfully for me. In fact, we had the best mutton chaap of our lives in Ahmedabad.
 
-<img class =“right” src="/bus.PNG" height="200" width="200"/>
- <p>This is image 1</p>
-<img class =“left” src="/thali.PNG" height="200" width="200"/>
-<p>This is image 1</p>
-
+<center>
 <right>
-    <img src="/bus.PNG" height="200" width="200"  />
+    <img src="/bus.PNG" height="350" width="300"  />
+ <p>This is image 1</p>
 </right>
 <left>
-    <img src="/thali.PNG" height="200" width="200"  />
+    <img src="/thali.PNG" height="300" width="300"  />
+ <p>This is image 1</p>
 </left>
+ </center>
 <br>
 Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera sun temple commands respect out of an individual. 
 <center>
