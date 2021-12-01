@@ -48,12 +48,9 @@ As we are complete wildlife buffs, there was no way we could have missed the Gir
 Next, we moved to Kutch, India’s largest district and well, a place of its own. Kutch has many unexplored places like Kaliya dhrow and Khari nadi gorge (canyon) which are rock formations sculpted by wind and water in colours of crimson. Kutch noticeable stands out from the rest of Gujarat by flaunting a rainbow palette of clothes, Kutchi thalis and bhungas (traditional Kutchi houses) thriving in the saline wilderness. As you become one with the vastness of the great Rann, the white desert almost commands devotionality out of an individual. The human eye reaches as far as it can, to see the sky and land meet. It is a summit-like humbling yet emotional experience. 
 
 <p align="center">
-  <img src="/dhrow1.PNG" width="456" height="655">
- <figcaption>MDN2 Logo</figcaption>
+  <img src="/drow1.PNG" width="456" height="655">
  <img src="/bhunga.PNG" width="456" height="655">
- <em>image_caption</em>
  <img src="/skysun.PNG" width="456" height="655">
- <em>image_caption</em>
  <img src="/salt.PNG" width="456" height="655">
 </p>
 <br>
@@ -62,6 +59,7 @@ For the last leg of our trip, there was no better place to end, than the city of
 <br>
 <p align="center">
   <img src="/heritage.PNG" width="456" height="655">
+  <em>image_caption</em>
 </p>
 #### Final thoughts
 
