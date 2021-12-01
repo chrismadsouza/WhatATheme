@@ -28,7 +28,7 @@ Our first stop was the majestic wonders of Champaner- Pavagadh, a beautiful blen
 
 <br>
 <p align="center">
-  <img src="/cp.PNG" width="456" height="655">
+  <img src="/cp.PNG" width="556" height="855">
    </p>
    <p align="center">The Jami Masjid at Champaner-Pavagadh</p>
   <p align="center">
