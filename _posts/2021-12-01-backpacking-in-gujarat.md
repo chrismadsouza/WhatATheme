@@ -21,22 +21,21 @@ A week of stuffing ourselves with dhoklas and jalebis, to taking a short siesta 
 
 <p align="center">
   <img src="/bus.PNG" width="456" height="655">
-  <img src="/thali.PNG" width="456" height="555">
 </p>
 
 <br>
-Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera sun temple commands respect out of an individual.
+Our first stop was the majestic wonders of Champaner- Pavagadh, a beautiful blend of Hindu and Islamic legacies. Not a fan of huge crowds, these monuments were perfect in serenity. We were transported back in time of the Rajputs and the Mughals. The famous 100-ruppee note monument aka Rani ki Wav step-well, build by the Rani herself, stands out as one of the most magnificent stepwells which was buried for nearly 7 centuries! Similarly, the Modhera Sun Temple commands respect out of an individual.
 
 <br>
 <p align="center">
   <img src="/cp.PNG" width="456" height="655">
    </p>
-   <p align="center">champagner </p>
+   <p align="center">The Jami Masjid at Champaner-Pavagadh</p>
   <p align="center">
   <img src="/rani.PNG" width="456" height="655">
-  <figcaption>MDN Logo</figcaption>
  <img src="/modhera.PNG" width="456" height="655">
 </p>
+<p align="center">Rani ki Wav and Modhera Sun Temple</p>
 
 As we are complete wildlife buffs, there was no way we could have missed the Gir National Park. Those who relate to us, know the absolute tranquillity of being in the jungle for a couple of hours in silence. It’s almost like therapy! And of course, to be rewarded by the sight of a lioness roaring? Nothing like it. 
 <p align="center">
