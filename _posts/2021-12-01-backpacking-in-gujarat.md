@@ -31,7 +31,10 @@ Our first stop was the majestic wonders of Champagner- Pavagadh, a beautiful ble
 <p align="center">
   <img src="/cp.PNG" width="456" height="655">
   <p>hello</p>
+  </p>
+  <p align="center">
   <img src="/rani.PNG" width="456" height="655">
+  <figcaption>MDN Logo</figcaption>
  <img src="/modhera.PNG" width="456" height="655">
 </p>
 
