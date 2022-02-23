@@ -7,9 +7,8 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
-# Description of the Site
-description: A customizable Jekyll portfolio theme
+title: Hey! I'm Chrisma
+
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,36 +17,33 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://lh3.googleusercontent.com/v6DaUFA_KlmnNXUj4dzHGzGMlMsnKRW9qn6C9E1dKMr7otKa6YVAENDGqL6xybAJndyTIhnJcp8HTkuZDI_5Ve14t0S5YzgASEluqg6oKerJftKJBzrh0JP4bqgb1Hu_PKDRs7G-fNOgXQzuL99isJ_o7a67y_KbNTjiPy96bZA3KBXmkfVDFOSwtd2K6zIoAlkVy4Ucg7h9Kkp-ru2yyUFR6wGueaTC8LsoCnnSC4jT7ryDyRWh2T0FkTD0CibWorEYiD8Op2im0FxQoIr1cwiS1fw_QdLCpffLVcK6e09nEjvbi01eRNUnRNYr_DH6ighS3_j4sIcZCw_hEaXXrpSIhh2D08iCsNIFZgZFa4vIFtrcTP3iyPgObTCNTik68osPfLKESK7HK7g4U5SuGYkOtvFvHw66mTJYFPh9AccBo2VLePjNTtdtBJm-JlStNabNx2VoeXotWO5fENQc2Nyi9rap4NpDF4WOhEJS0REVkUcXL8TxwmXEs82ZM6fI5uKysei7i6FghG7P9gaQxjcDnz8-13pDiZ4ufJTVDVX1z_38tUpAH_TPsxRPOWrlDbm21edaV5eOtFQaec3aFiKnfo6ivb0rpUPJaVeONn-JWDJO-vBXpBsO_I-LBBuSqQGcBvQdWuAelbI5-QeGidTQrhzGJJxpjk5ZBq0iq-F9a0qSBy7GxPMxqp_7hMqD_FPh6VZBF1IQNnm7AKPfSCg=w703-h937-no?authuser=0
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
-
-# Google Analytics
-google-analytics: UA-163806439-1
+email: claredsouza27@gmail.com
+twitter_username: chrismadsouza
+instagram_username: chrismadsouza
+linkedin_username: chrisma-d-souza-158493142
+github_username: chrismadsouza
+youtube_channel_id: UCjlzEHGH1VDKCGE_zh-YAow
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: chrisma
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Chrisma Clare D'Souza
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://raw.githubusercontent.com/chrismadsouza/chrismadsouza.github.io/master/Capture.JPG
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: I'm a Research Assistant working under Prof. Aaditya Dar at the Indian School
+  of Business in projects of development economics. I'm very interested in the
+  applications of data science in the field of developmental economics.  I love
+  travelling, trekking, playing the piano, watching the sun set at beaches,
+  reading a book on a rainy day, developmental economics, nature, astronomy,
+  desserts and this adventurous short stint called life.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/chrismadsouza
 
 # SASS
 sass:
