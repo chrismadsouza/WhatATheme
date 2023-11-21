@@ -3,4 +3,4 @@ title: Curriculum Vitae
 layout: page
 ---
 
-[Resume](/cv.pdf)
+[Resume](/cv_github.pdf)
