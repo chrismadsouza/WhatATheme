@@ -1,6 +1,6 @@
 ---
-title: Curriculum Vitae
+title: Resume
 layout: page
 ---
 
-[Resume](/cv_github.pdf)
+[Link](/cv_github.pdf)
